@@ -12,6 +12,7 @@ public class Main {
 		int idade = 31;
 		double renda = 4000.0;
 
+		//teste
 		System.out.print("Teste 1! ");
 		System.out.println("Teste 2!");
 		System.out.println("Olá mundo!");
